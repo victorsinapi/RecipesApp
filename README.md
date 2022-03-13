@@ -1,6 +1,6 @@
-# flutter_03_meal
+# Recipe App
 
-A new Flutter project.
+A flutter toy example 
 
 ## Getting Started
 
